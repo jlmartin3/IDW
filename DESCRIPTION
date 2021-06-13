@@ -1,0 +1,12 @@
+Package: IDW
+Type: Package
+Title: Inverse Distance Weighting
+Version: 1.0
+Date: 2020-03-13
+Author: James Martin
+Maintainer: James Martin <contactjamesmartin@gmail.com>
+Description: Simple functions to perform Inverse Distance Weighting 
+      interpolation and assess accuracy. 
+License: GPL (>= 2)
+Imports: Rcpp (>= 1.0.3)
+LinkingTo: Rcpp
